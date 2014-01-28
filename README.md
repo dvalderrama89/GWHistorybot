@@ -6,7 +6,7 @@ Reddit bot that searches a users history for gonewild posts and provides links t
 Getting Started
 ----------------
 
-Replace the fields in r.login() on line 20 in history_checker_bot.py with the login credentials of the Reddit account you wish to use as a commenter on any [Intro] submissions posted. Then run the bot with:
+Replace the fields in r.login() on line 20 in history_checker_bot.py with the login credentials of the Reddit account you wish to use. Then run the bot with:
 
         $ python history_checker_bot.py 
         
