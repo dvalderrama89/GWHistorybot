@@ -1,7 +1,7 @@
 GWHistorybot
 ============
 
-Reddit bot that searches a users history for gonewild posts and provides links to any matches found.
+Reddit bot that searches a user's history for gonewild posts and provides links to any matches found.
 
 Getting Started
 ----------------
